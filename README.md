@@ -1,7 +1,7 @@
-# SentimentAnalysis-Flipcart-Reviews
+# SentimentAnalysis-Flipcart-Reviews 🎓💼
 This project performs sentiment analysis on Flipkart product reviews to classify customer sentiments into categories such as Positive, Negative, or Neutral. The analysis is based on customer feedback data.
 
-# Project Workflow
+# Project Workflow 📂
 1. **Data Preprocessing**:
     - Removal of missing values.
     - Splitting data into training and testing sets.
